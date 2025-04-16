@@ -1,1 +1,10 @@
-a fancy visualize a fancy cube with ASCII characters 
+a fancy visualize a fancy cube with ASCII characters
+
+https://en.wikipedia.org/wiki/Rotation_matrix 
+for the basic 3d rotation matrix
+the image is in the assets folder 
+
+https://www.symbolab.com/solver/matrix-multiply-calculator
+for the actual calculation  
+
+the result for the calculation is in the assets folder 
